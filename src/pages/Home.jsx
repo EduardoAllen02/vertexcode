@@ -10,7 +10,7 @@ const Home = () => {
       <div className="info-section">
         <InfoBox number="2,000" label="Temples" />
         <InfoBox number="6,850" label="Islands" />
-        <InfoBox number="362" label="Rivers" />
+        <InfoBox number="352" label="Rivers" />
       </div>
     </div>
   );
